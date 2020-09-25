@@ -20,4 +20,4 @@ mongodb_agent:
   - agent: mongodb-mms-automation-agent-manager
     version: "10.19.0.6585-1"
     config: "/etc/mongodb-mms/automation-agent.config"
-    dir: "backup"
+    dir: "automation"
